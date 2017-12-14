@@ -1,2 +1,4 @@
 text
-my firse ch
+my firse change
+git config --global user.name "1999fych"
+git config --global user.email "fych1998@foxmail.com"
